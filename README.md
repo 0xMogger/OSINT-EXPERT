@@ -1,110 +1,115 @@
-# 🧭 OSINT Roadmap 
+# OSINT Expert Roadmap & Methodology
 
-## 📌 Description
+A complete, realistic and ethical framework to learn, practice and professionalize Open Source Intelligence (OSINT), from beginner to expert level.
 
-Ce dépôt contient une **roadmap complète, structurée et progressive pour apprendre et maîtriser l’OSINT (Open Source Intelligence)**, du niveau débutant jusqu’au niveau expert/professionnel.
+## About this project
 
-Contrairement à beaucoup de roadmaps superficielles, celle-ci est **orientée terrain**, **analyse**, **rigueur légale** et **production d’intelligence exploitable**, pas seulement l’usage d’outils.
+This repository provides a structured and progressive OSINT framework.  
+It goes beyond simple information gathering and focuses on analytical rigor, verification and validation, ethical and legal boundaries, and professional reporting.
 
-L’objectif n’est pas de “collecter des infos”, mais de **savoir analyser, corréler, vérifier et présenter de l’information issue de sources ouvertes**, de manière **méthodique, critique et responsable**.
+The goal is to help learners transition from OSINT hobbyist to credible OSINT analyst.
 
----
+## Intended audience
 
-## 🎯 Objectif final
+This repository is designed for:
+- OSINT learners (beginner to advanced)
+- Journalists and researchers
+- Cybersecurity and threat intelligence professionals
+- Anyone interested in responsible open-source investigations
 
-Former un **analyste OSINT crédible**, capable de :
-- mener des enquêtes longues et complexes
-- travailler avec des informations incomplètes ou contradictoires
-- produire des rapports clairs pour des décideurs
-- respecter les cadres légaux et éthiques
-- éviter les biais cognitifs et la sur-interprétation
+This repository is not intended for:
+- Doxxing or harassment
+- Illegal data collection
+- Privacy violations
+- Unethical OSINT practices
 
----
+## Core principles
 
-## 🧠 Contenu de la roadmap
+This project is built on the following principles:
+- Legality before capability
+- Ethics before curiosity
+- Verification before conclusion
+- Methodology before tools
+- Documentation before intuition
+- Acceptance of uncertainty
 
-La roadmap est organisée en **6 phases progressives** :
+OSINT is not about finding information.  
+It is about producing reliable and defensible intelligence.
 
-1. **Fondations OSINT solides**
-   - Cadre légal, éthique, biais cognitifs, OPSEC
-2. **SOCMINT & identités numériques**
-   - Analyse d’individus, corrélation d’identités, chronologies
-3. **GEOINT, vérification & désinformation**
-   - Géolocalisation, fact-checking, manipulation de l’information
-4. **Automatisation & OSINT technique**
-   - Python, scraping responsable, infrastructures numériques
-5. **Analyse stratégique & OSINT professionnel**
-   - ACH, red teaming analytique, reporting exécutif
-6. **Spécialisation & validation externe**
-   - Cyber, journalisme, conflits, entreprises, criminalité financière
+## Roadmap overview
 
-Chaque phase inclut :
-- des objectifs clairs
-- des compétences à acquérir
-- des outils pertinents
-- des exercices et projets concrets (enquêtes longues)
+The learning path is divided into six progressive phases.
 
----
+### Phase 1: Foundations OSINT
+Legal framework, critical thinking, OPSEC, search fundamentals
 
-## ⏱️ Durée estimée
+### Phase 2: SOCMINT and Digital Identities
+Social media analysis, alias correlation, timelines, metadata
 
-⏳ **18 à 30 mois**, selon le rythme, l’investissement et le niveau d’exigence.
+### Phase 3: GEOINT and Verification
+Image and video verification, geolocation, disinformation analysis
 
-Cette roadmap **n’est pas faite pour aller vite**, mais pour aller **loin et correctement**.
+### Phase 4: Automation and Technical OSINT
+Web fundamentals, scraping, APIs, infrastructure mapping
 
----
+### Phase 5: Strategic Analysis and Professional OSINT
+Analytical frameworks, reporting, decision-maker briefings
 
-## ⚠️ Avertissement légal & éthique
+### Phase 6: Specialization
+Cyber, journalism, conflicts, corporate, or financial OSINT
 
-Cette roadmap est fournie **à des fins éducatives**.
+## Repository structure
 
-- Elle ne promeut **ni le hacking, ni l’intrusion, ni le doxxing**
-- Toutes les méthodes évoquées doivent être utilisées **dans un cadre légal**
-- L’utilisateur est **responsable de ses actes et de ses usages**
+- roadmap/ — learning roadmaps (standard and expert)
+- methodology/ — investigation and analytical methodologies
+- templates/ — investigation and reporting templates
+- checklists/ — operational checklists
+- examples/ — case studies and exercises
+- resources/ — curated OSINT resources
 
-L’OSINT n’est pas une excuse pour enfreindre la loi.
+## How to use this repository
 
----
+Start with the roadmap that matches your level.  
+Follow the methodology during investigations.  
+Use templates and checklists systematically.  
+Separate facts, hypotheses and judgments.  
+Document all sources and reasoning.  
+Validate your conclusions externally.
 
-## 👤 Auteur
+This repository is meant to be used as a working framework, not read once.
 
-Roadmap conçue et structurée par **un présumé 0xmogger**.
+## Skill validation
 
-> “Présumé”, car en OSINT, on sépare toujours  
-> les faits, les hypothèses… et l’humour.
+OSINT expertise requires external validation.
 
----
+Recommended activities:
+- OSINT challenges and CTFs
+- Reproducing public investigations
+- Peer review and collaboration
+- Publishing documented work
 
-## 🤝 Contributions
+Without validation, OSINT skills remain theoretical.
 
-Les contributions sont bienvenues :
-- corrections
-- ajouts de ressources
-- retours d’expérience
-- améliorations pédagogiques
+## Legal and ethical disclaimer
 
-Merci de respecter l’esprit du projet :
-**rigueur, esprit critique et responsabilité**.
+This repository is provided for educational purposes only.
 
----
+The author does not encourage or support illegal activities, privacy violations, harassment or doxxing.
 
-## 📚 Ressources recommandées
+Users are responsible for complying with all applicable laws and regulations.
 
-- Bellingcat  
-- OSINT Framework  
-- IntelTechniques (Michael Bazzell)  
-- The OSINT Curious Project  
-- Rapports ONG & think tanks  
+## Contributions
 
----
+Contributions are welcome if they:
+- improve methodological rigor
+- add verified and ethical resources
+- respect legal and ethical boundaries
 
-## ⭐ Motivation
+See CONTRIBUTING.md for details.
 
-Si cette roadmap t’aide :
-- à apprendre correctement
-- à éviter des erreurs classiques
-- à progresser avec méthode
+## Attribution
 
-Alors elle a rempli son rôle.
+Created by a presumed analyst: **0xmogger**
 
-Bonne enquête.
+This repository reflects a learning and professionalization journey, not absolute authority.  
+Feedback, critique and peer review are encouraged.
